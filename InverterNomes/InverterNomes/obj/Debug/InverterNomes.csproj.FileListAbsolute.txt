@@ -1,0 +1,7 @@
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\InverterNomes\InverterNomes\bin\Debug\InverterNomes.exe.config
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\InverterNomes\InverterNomes\bin\Debug\InverterNomes.exe
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\InverterNomes\InverterNomes\bin\Debug\InverterNomes.pdb
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\InverterNomes\InverterNomes\obj\Debug\InverterNomes.csproj.AssemblyReference.cache
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\InverterNomes\InverterNomes\obj\Debug\InverterNomes.csproj.CoreCompileInputs.cache
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\InverterNomes\InverterNomes\obj\Debug\InverterNomes.exe
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\InverterNomes\InverterNomes\obj\Debug\InverterNomes.pdb

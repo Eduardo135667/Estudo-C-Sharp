@@ -1,0 +1,7 @@
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\Operadores\Operadores\bin\Debug\Operadores.exe.config
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\Operadores\Operadores\bin\Debug\Operadores.exe
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\Operadores\Operadores\bin\Debug\Operadores.pdb
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\Operadores\Operadores\obj\Debug\Operadores.csproj.AssemblyReference.cache
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\Operadores\Operadores\obj\Debug\Operadores.csproj.CoreCompileInputs.cache
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\Operadores\Operadores\obj\Debug\Operadores.exe
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\Operadores\Operadores\obj\Debug\Operadores.pdb

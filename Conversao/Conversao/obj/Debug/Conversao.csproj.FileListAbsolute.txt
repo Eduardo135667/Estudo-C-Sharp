@@ -1,0 +1,7 @@
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\Conversao\Conversao\bin\Debug\Conversao.exe.config
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\Conversao\Conversao\bin\Debug\Conversao.exe
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\Conversao\Conversao\bin\Debug\Conversao.pdb
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\Conversao\Conversao\obj\Debug\Conversao.csproj.AssemblyReference.cache
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\Conversao\Conversao\obj\Debug\Conversao.csproj.CoreCompileInputs.cache
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\Conversao\Conversao\obj\Debug\Conversao.exe
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\Conversao\Conversao\obj\Debug\Conversao.pdb
