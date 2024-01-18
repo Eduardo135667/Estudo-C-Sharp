@@ -1,0 +1,7 @@
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\Controle\Controle\bin\Debug\Controle.exe.config
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\Controle\Controle\bin\Debug\Controle.exe
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\Controle\Controle\bin\Debug\Controle.pdb
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\Controle\Controle\obj\Debug\Controle.csproj.AssemblyReference.cache
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\Controle\Controle\obj\Debug\Controle.csproj.CoreCompileInputs.cache
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\Controle\Controle\obj\Debug\Controle.exe
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\Controle\Controle\obj\Debug\Controle.pdb

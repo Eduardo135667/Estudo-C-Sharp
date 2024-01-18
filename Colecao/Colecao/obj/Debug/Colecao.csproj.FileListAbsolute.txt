@@ -1,0 +1,7 @@
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\Colecao\Colecao\bin\Debug\Colecao.exe.config
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\Colecao\Colecao\bin\Debug\Colecao.exe
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\Colecao\Colecao\bin\Debug\Colecao.pdb
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\Colecao\Colecao\obj\Debug\Colecao.csproj.AssemblyReference.cache
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\Colecao\Colecao\obj\Debug\Colecao.csproj.CoreCompileInputs.cache
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\Colecao\Colecao\obj\Debug\Colecao.exe
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\Colecao\Colecao\obj\Debug\Colecao.pdb

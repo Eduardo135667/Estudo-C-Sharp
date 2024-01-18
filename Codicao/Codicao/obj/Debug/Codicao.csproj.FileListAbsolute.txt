@@ -1,0 +1,7 @@
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\Codicao\Codicao\bin\Debug\Codicao.exe.config
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\Codicao\Codicao\bin\Debug\Codicao.exe
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\Codicao\Codicao\bin\Debug\Codicao.pdb
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\Codicao\Codicao\obj\Debug\Codicao.csproj.AssemblyReference.cache
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\Codicao\Codicao\obj\Debug\Codicao.csproj.CoreCompileInputs.cache
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\Codicao\Codicao\obj\Debug\Codicao.exe
+C:\Users\el221\OneDrive\Área de Trabalho\trabalhos C#\Codicao\Codicao\obj\Debug\Codicao.pdb
